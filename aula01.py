@@ -1,2 +1,6 @@
+# (Ignora tudo à direita. Serve para comentário)
 print('Hello, World!')
-print('Mais uma configuração')
+print('123')
+""" Docstring
+Também comentario"""
+''' Usado para escrever notas com diversas linhas'''
